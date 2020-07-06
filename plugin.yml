@@ -1,0 +1,14 @@
+name: ClearChat
+version: 1.0.0
+main: JZalaOz\ClearChat\Main
+api: 3.14.0
+
+commands:
+  cc:
+    description: Clears the chat
+    usage: /cc
+    permission: cc.cmd
+  clearchat:
+    description: Clears the chat
+    usage: /clearchat
+    permission: cc.cmd
