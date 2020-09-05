@@ -3,5 +3,6 @@ branches:
 - master
 projects:
   ClearChat:
+  Icon: icon.png
     path: ""
 ...
